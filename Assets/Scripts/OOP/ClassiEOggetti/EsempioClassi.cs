@@ -23,6 +23,7 @@ public class EsempioClassi : MonoBehaviour
 
         p1.Presentati();
         p2.Presentati();
+        p1.Peso = 70; // assegna il peso 70 alla variabile p1
 
         personaEsposta.Presentati(); // i valori degli attributi vanno inseriti tramite INSPECTOR
 
