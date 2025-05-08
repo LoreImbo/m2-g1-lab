@@ -9,10 +9,10 @@ public class Lab3 : MonoBehaviour
     public int num1 = 10;
     
     // usare [SerializeField] che si applica sia a private che non
-    [SerializeField]
-    int num2 = 5;
-    [SerializeField]
-    private int num3 = 15;
+    //[SerializeField]
+    //int num2 = 5;
+    //[SerializeField]
+    //private int num3 = 15;
 
     public int num4 = 20;
 
@@ -23,7 +23,7 @@ public class Lab3 : MonoBehaviour
     public int a = 20;
     public int b = 5;
 
-    float time = 0;
+    //float time = 0;
 
     [Range(0,10)] // mette uno slider range nell'interfaccia
     public int voto = 10;

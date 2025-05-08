@@ -5,13 +5,13 @@ using UnityEngine;
 public class Lab4 : MonoBehaviour
 {
     // ES 1
-    int index = 10;
-    int num = 0;
+    //int index = 10;
+    //int num = 0;
 
-    // ES 2
-    int [] arr = new int [4];
-    int somma = 0;
-    int prodotto = 1;
+    //// ES 2
+    //int [] arr = new int [4];
+    //int somma = 0;
+    //int prodotto = 1;
 
     // ES 3
     public int numero = 15;
